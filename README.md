@@ -73,7 +73,7 @@
 </div>
 
 **Версия для запуска из ячейки кода.** app-code-cell-demo.py
-https://github.com/alecseiterr/Icon_Soft/blob/main/Tatarintsev_Dmitry/emergency_calls_net_sample.ipynb
+https://github.com/DmitryTatarintsev/Automatic-Speech-Recognition/blob/main/app-code-cell-demo.py
 
 ```python
 import app-code-cell-demo
