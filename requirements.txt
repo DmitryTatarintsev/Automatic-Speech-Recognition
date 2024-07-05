@@ -1,0 +1,9 @@
+streamlit
+sounddevice
+soundfile
+python-io
+numpy
+librosa
+SpeechRecognition
+temp
+ffmpeg
