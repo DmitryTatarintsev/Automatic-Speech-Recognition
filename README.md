@@ -163,5 +163,3 @@ C:\Users\...\Automatic-Speech-Recognition>python -m streamlit run app.py
 - ~~04.06-31.07.2024: провести интеграционное тестирование системы для проверки взаимодействия компонентов.~~ **Завершено.**
 
 </details>
-
-<details>
